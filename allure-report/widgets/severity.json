@@ -1,0 +1,111 @@
+[ {
+  "uid" : "121e8876f98e054b",
+  "name" : "should test the video",
+  "time" : {
+    "start" : 1648914457893,
+    "stop" : 1648914457924,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26f6ffe87407db00",
+  "name" : "should test the page sub heading",
+  "time" : {
+    "start" : 1648914457730,
+    "stop" : 1648914457800,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "feb8348cdbe7e190",
+  "name" : "should test the navbar menu",
+  "time" : {
+    "start" : 1648914457110,
+    "stop" : 1648914457665,
+    "duration" : 555
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5aa071637d23413b",
+  "name" : "should test the url of learn more about car safety hyperlink",
+  "time" : {
+    "start" : 1648914457925,
+    "stop" : 1648914458199,
+    "duration" : 274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "765fb92138c07646",
+  "name" : "should open the given url",
+  "time" : {
+    "start" : 1648914455056,
+    "stop" : 1648914456548,
+    "duration" : 1492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ddbdf6540b73000",
+  "name" : "should test the page title",
+  "time" : {
+    "start" : 1648914456549,
+    "stop" : 1648914456612,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64122b93cc2ba4e2",
+  "name" : "should test the url of learn more button",
+  "time" : {
+    "start" : 1648914458199,
+    "stop" : 1648914458570,
+    "duration" : 371
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "260d59de0a015296",
+  "name" : "should check the logo is displayed",
+  "time" : {
+    "start" : 1648914456840,
+    "stop" : 1648914457108,
+    "duration" : 268
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "756e575f7a80a0f4",
+  "name" : "should test the page heading",
+  "time" : {
+    "start" : 1648914457665,
+    "stop" : 1648914457730,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d00a126e06e5351d",
+  "name" : "should accept the cookie settings",
+  "time" : {
+    "start" : 1648914456614,
+    "stop" : 1648914456812,
+    "duration" : 198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4434c82e4ce4a082",
+  "name" : "should test the first section heading",
+  "time" : {
+    "start" : 1648914457800,
+    "stop" : 1648914457893,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,62 @@
+{
+  "uid" : "26f6ffe87407db00",
+  "name" : "should test the page sub heading",
+  "fullName" : "Volvo 3-point safety belt page testing.should test the page sub heading",
+  "historyId" : "8f68f436e6cda6c7bc6f7ae1a58fab58",
+  "time" : {
+    "start" : 1648914457730,
+    "stop" : 1648914457800,
+    "duration" : 70
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo 3-point safety belt page testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo 3-point safety belt page testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "should test the page sub heading"
+  }, {
+    "name" : "package",
+    "value" : "Volvo 3-point safety belt page testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26f6ffe87407db00.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
