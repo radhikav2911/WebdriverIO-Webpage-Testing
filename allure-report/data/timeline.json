@@ -4,14 +4,14 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "should open the given url",
-      "uid" : "765fb92138c07646",
+      "name" : "should accept the cookie settings",
+      "uid" : "c293c1afc6a81af2",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648914455056,
-        "stop" : 1648914456548,
-        "duration" : 1492
+        "start" : 1648914456614,
+        "stop" : 1648914456812,
+        "duration" : 198
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,7 +22,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "should test the page title",
-      "uid" : "8ddbdf6540b73000",
+      "uid" : "5f1cbf71e945937c",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "should check the logo is displayed",
-      "uid" : "260d59de0a015296",
+      "uid" : "e49a499e7bc2c011",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -55,59 +55,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
-      "name" : "should test the page heading",
-      "uid" : "756e575f7a80a0f4",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648914457665,
-        "stop" : 1648914457730,
-        "duration" : 65
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84" ]
-    }, {
-      "name" : "should accept the cookie settings",
-      "uid" : "d00a126e06e5351d",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648914456614,
-        "stop" : 1648914456812,
-        "duration" : 198
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84" ]
-    }, {
-      "name" : "should test the first section heading",
-      "uid" : "4434c82e4ce4a082",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648914457800,
-        "stop" : 1648914457893,
-        "duration" : 93
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84" ]
-    }, {
       "name" : "should test the navbar menu",
-      "uid" : "feb8348cdbe7e190",
+      "uid" : "8272a82361eb4294",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -123,42 +72,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
-      "name" : "should test the url of learn more button",
-      "uid" : "64122b93cc2ba4e2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648914458199,
-        "stop" : 1648914458570,
-        "duration" : 371
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84" ]
-    }, {
-      "name" : "should test the video",
-      "uid" : "121e8876f98e054b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648914457893,
-        "stop" : 1648914457924,
-        "duration" : 31
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84" ]
-    }, {
       "name" : "should test the page sub heading",
-      "uid" : "26f6ffe87407db00",
+      "uid" : "ea87e61dd34edff6",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -174,14 +89,99 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
+      "name" : "should test the url of learn more button",
+      "uid" : "4f17bf13aff182bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648914458199,
+        "stop" : 1648914458570,
+        "duration" : 371
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.84" ]
+    }, {
+      "name" : "should test the page heading",
+      "uid" : "cfcf61da1afd74ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648914457665,
+        "stop" : 1648914457730,
+        "duration" : 65
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.84" ]
+    }, {
       "name" : "should test the url of learn more about car safety hyperlink",
-      "uid" : "5aa071637d23413b",
+      "uid" : "2d313a626389b3fa",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
         "start" : 1648914457925,
         "stop" : 1648914458199,
         "duration" : 274
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.84" ]
+    }, {
+      "name" : "should test the first section heading",
+      "uid" : "704531ee0f2349d5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648914457800,
+        "stop" : 1648914457893,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.84" ]
+    }, {
+      "name" : "should open the given url",
+      "uid" : "e61935232da9a07b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648914455056,
+        "stop" : 1648914456548,
+        "duration" : 1492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.84" ]
+    }, {
+      "name" : "should test the video",
+      "uid" : "8f79ccdc4a9791d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648914457893,
+        "stop" : 1648914457924,
+        "duration" : 31
       },
       "flaky" : false,
       "newFailed" : false,

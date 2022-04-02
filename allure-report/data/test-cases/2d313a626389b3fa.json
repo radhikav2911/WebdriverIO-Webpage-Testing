@@ -1,12 +1,12 @@
 {
-  "uid" : "64122b93cc2ba4e2",
-  "name" : "should test the url of learn more button",
-  "fullName" : "Volvo 3-point safety belt page testing.should test the url of learn more button",
-  "historyId" : "83afb22fd1357694c797ca57565a82c",
+  "uid" : "2d313a626389b3fa",
+  "name" : "should test the url of learn more about car safety hyperlink",
+  "fullName" : "Volvo 3-point safety belt page testing.should test the url of learn more about car safety hyperlink",
+  "historyId" : "1dd971cf77afda778756362d05928de9",
   "time" : {
-    "start" : 1648914458199,
-    "stop" : 1648914458570,
-    "duration" : 371
+    "start" : 1648914457925,
+    "stop" : 1648914458199,
+    "duration" : 274
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "Volvo 3-point safety belt page testing"
   }, {
     "name" : "testMethod",
-    "value" : "should test the url of learn more button"
+    "value" : "should test the url of learn more about car safety hyperlink"
   }, {
     "name" : "package",
     "value" : "Volvo 3-point safety belt page testing"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "64122b93cc2ba4e2.json",
+  "source" : "2d313a626389b3fa.json",
   "parameterValues" : [ "chrome-99.0.4844.84" ]
 }

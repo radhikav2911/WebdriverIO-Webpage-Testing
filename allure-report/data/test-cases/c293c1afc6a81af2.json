@@ -1,5 +1,5 @@
 {
-  "uid" : "d00a126e06e5351d",
+  "uid" : "c293c1afc6a81af2",
   "name" : "should accept the cookie settings",
   "fullName" : "Volvo 3-point safety belt page testing.should accept the cookie settings",
   "historyId" : "1ad72ede481daeea25abf45521724172",
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d00a126e06e5351d.json",
+  "source" : "c293c1afc6a81af2.json",
   "parameterValues" : [ "chrome-99.0.4844.84" ]
 }

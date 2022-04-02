@@ -1,12 +1,12 @@
 {
-  "uid" : "8ddbdf6540b73000",
-  "name" : "should test the page title",
-  "fullName" : "Volvo 3-point safety belt page testing.should test the page title",
-  "historyId" : "ec0cc783207e26da7913be6135ed0cdb",
+  "uid" : "e49a499e7bc2c011",
+  "name" : "should check the logo is displayed",
+  "fullName" : "Volvo 3-point safety belt page testing.should check the logo is displayed",
+  "historyId" : "bd894e50afe7e452b0bda15e040f285c",
   "time" : {
-    "start" : 1648914456549,
-    "stop" : 1648914456612,
-    "duration" : 63
+    "start" : 1648914456840,
+    "stop" : 1648914457108,
+    "duration" : 268
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "Volvo 3-point safety belt page testing"
   }, {
     "name" : "testMethod",
-    "value" : "should test the page title"
+    "value" : "should check the logo is displayed"
   }, {
     "name" : "package",
     "value" : "Volvo 3-point safety belt page testing"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8ddbdf6540b73000.json",
+  "source" : "e49a499e7bc2c011.json",
   "parameterValues" : [ "chrome-99.0.4844.84" ]
 }
